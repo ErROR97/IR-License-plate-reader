@@ -25,7 +25,6 @@ pip install -r requirements.txt  # install
 
 <details open>
 
-<details>
 <summary>Inference with detect.py</summary>
 
 `detect.py` runs inference on a variety of sources and saving results to `runs/detect`.
@@ -40,10 +39,4 @@ python detect.py --source 0  # webcam
                           'rtsp://example.com/media.mp4'  # RTSP, RTMP, HTTP stream
 ```
 
-</details>
 
-<details>
-
-</details>
-
-<details open>
