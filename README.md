@@ -6,7 +6,16 @@
 
 See the [YOLOv5 Docs](https://docs.ultralytics.com)  and [EasyOCR Docs](https://github.com/JaidedAI/EasyOCR) for full documentation.
 
+## <div align="center">Traning Prosess</div>
+
+we trained about 4000 picture of plate for yolo and about 12000 data of plate text for EasyOCR in training process. Our datasets are private but you can find weights in project file.
+
 ## <div align="center">Quick Start Examples</div>
+
+
+
+
+
 
 <details open>
 <summary>Install</summary>
