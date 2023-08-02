@@ -1,0 +1,6 @@
+path: dataset1400
+train: train/images
+val: val/images
+
+nc: 1
+names: ['plate']

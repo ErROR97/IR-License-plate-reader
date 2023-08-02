@@ -1,0 +1,5 @@
+names:
+- plate
+nc: 1
+train: wandb-artifact://pelak/train
+val: wandb-artifact://pelak/val
