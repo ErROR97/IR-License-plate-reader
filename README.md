@@ -4,8 +4,7 @@
 
 ## <div align="center">Documentation</div>
 
-See the [YOLOv5 Docs](https://docs.ultralytics.com) for full documentation.
-See the [EasyOCR Docs](https://github.com/JaidedAI/EasyOCR) for full documentation.
+See the [YOLOv5 Docs](https://docs.ultralytics.com)  and [EasyOCR Docs](https://github.com/JaidedAI/EasyOCR) for full documentation.
 
 ## <div align="center">Quick Start Examples</div>
 
